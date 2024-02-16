@@ -1,0 +1,319 @@
+.ngo-connect-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.ngo-connect-page-profileicon {
+  top: 6.600006103515625px;
+  left: 314.5999755859375px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+  float: right;
+}
+.ngo-connect-page-ngo-connect-page {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.ngo-connect-page-scrollframe {
+  top: 308px;
+  left: 0px;
+  width: 360px;
+  height: 492px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ngo-connect-page-footer {
+  top: 343px;
+  left: 0px;
+  width: 360px;
+  height: 174px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ngo-connect-page-footerbg {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 174px;
+  position: absolute;
+}
+.ngo-connect-page-text {
+  top: 43px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 49px;
+  height: auto;
+  position: absolute;
+  font-size: 13.499908447265625px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-text02 {
+  top: 127px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 13.499908447265625px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-text04 {
+  top: 99px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 13.499908447265625px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-text06 {
+  top: 71px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 49px;
+  height: auto;
+  position: absolute;
+  font-size: 13.499908447265625px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-opt2 {
+  top: 119px;
+  left: 17px;
+  width: 328px;
+  height: 98px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(44, 106, 96, 1);
+}
+.ngo-connect-page-text08 {
+  top: 14px;
+  left: 110px;
+  color: rgba(244, 244, 244, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 17.625600814819336px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-text10 {
+  top: 37px;
+  left: 11px;
+  color: rgba(244, 244, 244, 1);
+  width: 310px;
+  height: auto;
+  position: absolute;
+  font-size: 10.12614917755127px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-opt1 {
+  top: 0px;
+  left: 17px;
+  width: 334px;
+  height: 98px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.ngo-connect-page-linkbg {
+  top: 0px;
+  left: 0px;
+  width: 328px;
+  height: 98px;
+  position: absolute;
+  border-radius: 9px;
+}
+.ngo-connect-page-text12 {
+  top: 16px;
+  left: 93px;
+  color: rgba(244, 244, 244, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 18.49600601196289px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-text14 {
+  top: 41px;
+  left: 24px;
+  color: rgba(244, 244, 244, 1);
+  width: 310px;
+  height: auto;
+  position: absolute;
+  font-size: 10.12614917755127px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-link {
+  display: contents;
+}
+.ngo-connect-page-opt3 {
+  top: 238px;
+  left: 17px;
+  width: 328px;
+  height: 98px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(44, 106, 96, 1);
+}
+.ngo-connect-page-text16 {
+  top: 14px;
+  left: 120px;
+  color: rgba(244, 244, 244, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 18.49600601196289px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-text18 {
+  top: 40px;
+  left: 18px;
+  color: rgba(244, 244, 244, 1);
+  width: 310px;
+  height: auto;
+  position: absolute;
+  font-size: 10.12614917755127px;
+  font-style: Light;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-clickframe {
+  top: 73px;
+  left: 17px;
+  width: 327px;
+  height: 195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ngo-connect-page-display-image {
+  top: -23px;
+  left: -20px;
+  width: 366px;
+  height: 218px;
+  position: absolute;
+}
+.ngo-connect-page-text20 {
+  top: 130px;
+  color: rgba(255, 255, 255, 1);
+  width: 236px;
+  height: auto;
+  position: absolute;
+  font-size: 19.597064971923828px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ngo-connect-page-nav-bar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.ngo-connect-page-n-bbg {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 52px;
+  position: absolute;
+}
+.ngo-connect-page-backicon {
+  top: 8.1199951171875px;
+  left: 4.1199951171875px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.ngo-connect-page-logo {
+  top: 5px;
+  left: 109px;
+  width: 141px;
+  height: 42px;
+  position: absolute;
+}

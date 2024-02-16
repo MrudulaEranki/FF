@@ -1,0 +1,132 @@
+.login-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-page-login-page {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-page-loginbg {
+  top: -4px;
+  left: -74px;
+  width: 434px;
+  height: 807px;
+  position: absolute;
+}
+.login-page-loginbgfilt {
+  top: 52px;
+  left: -27px;
+  width: 423px;
+  height: 751px;
+  opacity: 0.50;
+  position: absolute;
+}
+.login-page-nav-bar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-page-n-bbg {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 52px;
+  position: absolute;
+}
+.login-page-logo {
+  top: 5px;
+  left: 109px;
+  width: 141px;
+  height: 42px;
+  position: absolute;
+}
+.login-page-loginbox {
+  top: 274px;
+  left: 57px;
+  width: 256px;
+  height: 211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-page-dialogbox {
+  top: -15px;
+  left: -22px;
+  width: 300px;
+  height: 254px;
+  position: absolute;
+  border-radius: 8px;
+}
+.login-page-pwd {
+  top: 96px;
+  left: 0px;
+  width: 256px;
+  height: 39px;
+  position: absolute;
+}
+.login-page-username {
+  top: 40px;
+  left: 0px;
+  width: 256px;
+  height: 39px;
+  position: absolute;
+}
+.login-page-text {
+  top: -4px;
+  left: 87px;
+  color: rgba(25, 56, 51, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 22.319988250732422px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-page-submitbtn {
+  top: 166px;
+  left: 56px;
+  width: 143px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(44, 106, 96, 1);
+}
+.login-page-text2 {
+  top: 12px;
+  left: 39px;
+  color: rgba(255, 255, 255, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
